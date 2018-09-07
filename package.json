@@ -1,0 +1,19 @@
+{
+  "name": "rss-generator-for-sites-which-dont-provide-feeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdemon/RSS-generator-for-sites-which-dont-provide-feeds.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdemon/RSS-generator-for-sites-which-dont-provide-feeds/issues"
+  },
+  "homepage": "https://github.com/hdemon/RSS-generator-for-sites-which-dont-provide-feeds#readme"
+}
