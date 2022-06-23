@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hdemon/RSS-generator-for-sites-which-dont-provide-feeds#readme",
   "dependencies": {
-    "jsdom": "^12.0.0",
+    "jsdom": "^16.5.0",
     "request": "^2.88.0"
   }
 }
